@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-- 🔭 I'm currently working on building out the technology that drives Viewnary.com
+- 🔭 I'm currently working on building out the amazing start-ups and technical solutions for our internal projects and our clients @ Bakklog
 - 💬 Ask me about anything Nuxt.js, Node.js, Vue.js or Software Architecture related
 <br>
 
