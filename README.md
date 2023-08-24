@@ -2,7 +2,7 @@
 
 
 - 🔭 I'm currently working on building out the amazing start-ups and technical solutions for our internal projects and our clients with the talented team at Bakklog
-- 💬 Ask me about anything Nuxt.js, Node.js, Vue.js or Software Architecture related
+- 💬 Ask me about anything Next.js, React, Node.js, Vue.js or Software Architecture related
 <br>
 
 ## Connect with me
