@@ -24,5 +24,5 @@
 <br>
 
 ## GitHub stats
-[![Stephan's GitHub stats](https://github-readme-stats-chi-one-90.vercel.app/api?username=stmoerman&show_icons=true&hide_title=true)](https://github.com/stmoerman/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stmoerman\&layout=compact)](https://github.com/stmoerman/github-readme-stats)
+[![Stephan's GitHub stats](https://github-readme-stats-chi-one-90.vercel.app/api?username=stmoerman&show_icons=true&hide_title=true&theme=radical)](https://github.com/stmoerman/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stmoerman\&layout=compact&theme=radical)](https://github.com/stmoerman/github-readme-stats)
