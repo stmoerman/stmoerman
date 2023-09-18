@@ -11,6 +11,10 @@
 <br>
 <br>
 
+### 📙 Blog Posts
+<!--START_SECTION:feed-->
+<!--END_SECTION:feed-->
+
 ## Expertise
 <img align="left" alt="nextjs" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
 <img align="left" alt="react" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
