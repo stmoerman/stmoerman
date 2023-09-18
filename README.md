@@ -15,6 +15,12 @@
 ## Blog posts
 
 <!--START_SECTION:feed-->
+#### [How to add user auth with Clerk and NextJS](https:&#x2F;&#x2F;www.moerman.tech&#x2F;blog&#x2F;how-to-add-user-auth-with-clerk-and-nextjs) 
+*Learn how to easily add user authentication with Clerk for a Next.js 13 App Directory project. Follow my step-by-step guide and learn how to add authentication to your Next 13 project in under 30 minutes.*
+#### [The useState &amp; useEffect mistakes junior React developers still make in 2023](https:&#x2F;&#x2F;www.moerman.tech&#x2F;blog&#x2F;usestate-and-useeffect-mistakes-junior-react-developers-still-make-in-2023) 
+*Are you a junior React developer making mistakes with the useState and useEffect hooks? In 2023, these errors are still common. Don&#39;t worry, you&#39;re not alone.*
+#### [Is Svelte the next big thing in Javascript frameworks?](https:&#x2F;&#x2F;www.moerman.tech&#x2F;blog&#x2F;is-svelte-the-next-big-thing-in-javascript-frameworks) 
+*Are you tired of bulky JavaScript frameworks that slow down your website? Look no further than Svelte.  With its unique approach to compiling code into small, pure Vanilla JS, Svelte is revolutionizing the way you build websites.*
 <!--END_SECTION:feed-->
 <br>
 <br>
