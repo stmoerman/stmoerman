@@ -17,6 +17,8 @@ I'm a [Freelance Next.js Developer](https://www.moerman.tech/) with over 10 year
 ## Blog posts
 
 <!--START_SECTION:feed-->
+#### [ChatGPT guide for developers: increase your productivity with AI](https:&#x2F;&#x2F;www.moerman.tech&#x2F;blog&#x2F;a-developers-manual-to-chatgpt) 
+*Are you ready to tap into your untapped potential as a developer? Brace yourself for an exhilarating journey as we uncover the incredible power of ChatGPT.*
 #### [How to add user auth with Clerk and NextJS](https:&#x2F;&#x2F;www.moerman.tech&#x2F;blog&#x2F;how-to-add-user-auth-with-clerk-and-nextjs) 
 *Learn how to easily add user authentication with Clerk for a Next.js 13 App Directory project. Follow my step-by-step guide and learn how to add authentication to your Next 13 project in under 30 minutes.*
 #### [The useState &amp; useEffect mistakes junior React developers still make in 2023](https:&#x2F;&#x2F;www.moerman.tech&#x2F;blog&#x2F;usestate-and-useeffect-mistakes-junior-react-developers-still-make-in-2023) 
