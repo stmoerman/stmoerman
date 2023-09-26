@@ -21,6 +21,8 @@ I'm a [Freelance Next.js Developer](https://www.moerman.tech/) with over 10 year
 *Are you ready to tap into your untapped potential as a developer? Brace yourself for an exhilarating journey as we uncover the incredible power of ChatGPT.*
 #### [How to add user auth with Clerk and NextJS](https:&#x2F;&#x2F;www.moerman.tech&#x2F;blog&#x2F;how-to-add-user-auth-with-clerk-and-nextjs) 
 *Learn how to easily add user authentication with Clerk for a Next.js 13 App Directory project. Follow my step-by-step guide and learn how to add authentication to your Next 13 project in under 30 minutes.*
+#### [Next.JS: migrate from pages to using app router](https:&#x2F;&#x2F;www.moerman.tech&#x2F;blog&#x2F;nextjs-migrate-from-pages-to-app-router) 
+*Learn how to seamlessly migrate from Next.js Pages to App Router in just a few steps. Upgrade your app&#39;s performance and user experience today!*
 #### [The useState &amp; useEffect mistakes junior React developers still make in 2023](https:&#x2F;&#x2F;www.moerman.tech&#x2F;blog&#x2F;usestate-and-useeffect-mistakes-junior-react-developers-still-make-in-2023) 
 *Are you a junior React developer making mistakes with the useState and useEffect hooks? In 2023, these errors are still common. Don&#39;t worry, you&#39;re not alone.*
 #### [Is Svelte the next big thing in Javascript frameworks?](https:&#x2F;&#x2F;www.moerman.tech&#x2F;blog&#x2F;is-svelte-the-next-big-thing-in-javascript-frameworks) 
