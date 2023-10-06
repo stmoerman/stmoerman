@@ -17,6 +17,8 @@ I'm a [Freelance Next.js Developer](https://www.moerman.tech/) with over 10 year
 ## Blog posts
 
 <!--START_SECTION:feed-->
+#### [Next.js SEO checklist: Start ranking higher on Google](https:&#x2F;&#x2F;www.moerman.tech&#x2F;blog&#x2F;nextjs-seo-checklist-start-ranking-higher-on-google) 
+*You&#39;re about to unlock the secret sauce of SEO with Next.js. This guide serves as your roadmap to higher Google rankings, offering insights on everything from server-side rendering to metadata management.*
 #### [ChatGPT guide for developers: increase your productivity with AI](https:&#x2F;&#x2F;www.moerman.tech&#x2F;blog&#x2F;a-developers-manual-to-chatgpt) 
 *Are you ready to tap into your untapped potential as a developer? Brace yourself for an exhilarating journey as we uncover the incredible power of ChatGPT.*
 #### [How to add user auth with Clerk and NextJS](https:&#x2F;&#x2F;www.moerman.tech&#x2F;blog&#x2F;how-to-add-user-auth-with-clerk-and-nextjs) 
