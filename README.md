@@ -17,6 +17,8 @@ I'm a [Freelance Next.js Developer](https://www.moerman.tech/) with over 10 year
 ## Blog posts
 
 <!--START_SECTION:feed-->
+#### [PNPM: faster, more performant NPM](https:&#x2F;&#x2F;www.moerman.tech&#x2F;blog&#x2F;pnpm-faster-more-performant-npm) 
+*I&#39;m always on the lookout for tools that can improve my workflow and boost the efficiency of my projects as a software developer. That&#39;s why I was thrilled when I came across pnpm, a revolutionary package manager that outperforms both Yarn and NPM.*
 #### [Next.js SEO checklist: Start ranking higher on Google](https:&#x2F;&#x2F;www.moerman.tech&#x2F;blog&#x2F;nextjs-seo-checklist-start-ranking-higher-on-google) 
 *You&#39;re about to unlock the secret sauce of SEO with Next.js. This guide serves as your roadmap to higher Google rankings, offering insights on everything from server-side rendering to metadata management.*
 #### [ChatGPT guide for developers: increase your productivity with AI](https:&#x2F;&#x2F;www.moerman.tech&#x2F;blog&#x2F;a-developers-manual-to-chatgpt) 
