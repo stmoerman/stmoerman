@@ -18,7 +18,7 @@ I'm a [Freelance Next.js Developer](https://www.moerman.tech/) with over 10 year
 
 <!--START_SECTION:feed-->
 #### [Vercel storage: KV, Postgres and more](https:&#x2F;&#x2F;www.moerman.tech&#x2F;blog&#x2F;vercel-storage-the-complete-guide-in-2023) 
-*GGet detailed insight into the powerful Vercel storage solutions specifically designed for serverless web applications. Learn more about Vercel KV, Postgres, Blob and Edge Config products to streamline data storage and deliver fast and reliable performance to your application.*
+*Get detailed insight into the powerful Vercel storage solutions specifically designed for serverless web applications. Learn more about Vercel KV, Postgres, Blob and Edge Config products to streamline data storage and deliver fast and reliable performance to your application.*
 #### [PNPM: faster, more performant NPM](https:&#x2F;&#x2F;www.moerman.tech&#x2F;blog&#x2F;pnpm-faster-more-performant-npm) 
 *I&#39;m always on the lookout for tools that can improve my workflow and boost the efficiency of my projects as a software developer. That&#39;s why I was thrilled when I came across pnpm, a revolutionary package manager that outperforms both Yarn and NPM.*
 #### [Next.js SEO checklist: Start ranking higher on Google](https:&#x2F;&#x2F;www.moerman.tech&#x2F;blog&#x2F;nextjs-seo-checklist-start-ranking-higher-on-google) 
