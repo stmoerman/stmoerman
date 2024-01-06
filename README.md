@@ -17,6 +17,8 @@ I'm a [Freelance Next.js Developer](https://www.moerman.tech/) with over 10 year
 ## Blog posts
 
 <!--START_SECTION:feed-->
+#### [Next.js 14 AWS S3 file management: the ultimate file handling guide](https:&#x2F;&#x2F;www.moerman.tech&#x2F;blog&#x2F;nextjs-s3-file-management-the-ultimate-guide-to-handling-files-in-nextjs-14) 
+*Have you ever considered the power you have when integrating robust cloud storage solutions with a modern web framework? In this tutorial you&#39;ll learn how to use AWS S3 to upload and manage files in Next.js 14.*
 #### [Vercel storage: KV, Postgres and more](https:&#x2F;&#x2F;www.moerman.tech&#x2F;blog&#x2F;vercel-storage-the-complete-guide-in-2023) 
 *Get detailed insight into the powerful Vercel storage solutions specifically designed for serverless web applications. Learn more about Vercel KV, Postgres, Blob and Edge Config products to streamline data storage and deliver fast and reliable performance to your application.*
 #### [PNPM: faster, more performant NPM](https:&#x2F;&#x2F;www.moerman.tech&#x2F;blog&#x2F;pnpm-faster-more-performant-npm) 
