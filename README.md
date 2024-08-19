@@ -1,9 +1,9 @@
 ## Hi there 👋
 
-I'm a [Freelance Next.js Developer](https://www.moerman.tech/) with over 10 years of experience in web development.
+I'm the Co-Founder at [Bakklog](https://www.bakklog.com) a Miami and Netherlands based marketing agency.
 
-- 🔭 I'm currently working on building out the amazing start-ups and technical solutions with the talented team at Bakklog
-- 💬 Ask me about anything Next.js, React, Node.js, Vue.js or Software Architecture related
+- 🔭 I'm currently working on building out the amazing start-ups and technical solutions with the talented team at Bakklog, while we serve our clients with their marketing needs
+- 💬 Ask me about anything Next.js, React or SEO.
   <br>
 
 ## Connect with me
