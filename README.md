@@ -17,23 +17,25 @@ I'm the Co-Founder at [Bakklog](https://www.bakklog.com) a Miami and Netherlands
 ## Blog posts
 
 <!--START_SECTION:feed-->
-#### [Next.js 14 AWS S3 file management: the ultimate file handling guide](https:&#x2F;&#x2F;www.moerman.tech&#x2F;blog&#x2F;nextjs-s3-file-management-the-ultimate-guide-to-handling-files-in-nextjs-14) 
+#### [Next.js 15 is HERE! 10 must-have features you can&#39;t miss](https:&#x2F;&#x2F;www.moerman.dev&#x2F;blog&#x2F;nextjs-15-stable-release) 
+*The Next.js hype train is real, and it&#39;s not slowing down! Next.js 15 has just launched, bringing a host of game-changing features that will transform your development workflow. From faster builds to a smoother developer...*
+#### [Next.js 14 AWS S3 file management: the ultimate file handling guide](https:&#x2F;&#x2F;www.moerman.dev&#x2F;blog&#x2F;nextjs-s3-file-management-the-ultimate-guide-to-handling-files-in-nextjs-14) 
 *Have you ever considered the power you have when integrating robust cloud storage solutions with a modern web framework? In this tutorial you&#39;ll learn how to use AWS S3 to upload and manage files in Next.js 14.*
-#### [Vercel storage: KV, Postgres and more](https:&#x2F;&#x2F;www.moerman.tech&#x2F;blog&#x2F;vercel-storage-the-complete-guide-in-2023) 
+#### [Vercel storage: KV, Postgres and more](https:&#x2F;&#x2F;www.moerman.dev&#x2F;blog&#x2F;vercel-storage-the-complete-guide-in-2023) 
 *Get detailed insight into the powerful Vercel storage solutions specifically designed for serverless web applications. Learn more about Vercel KV, Postgres, Blob and Edge Config products to streamline data storage and deliver fast and reliable performance to your application.*
-#### [PNPM: faster, more performant NPM](https:&#x2F;&#x2F;www.moerman.tech&#x2F;blog&#x2F;pnpm-faster-more-performant-npm) 
+#### [PNPM: faster, more performant NPM](https:&#x2F;&#x2F;www.moerman.dev&#x2F;blog&#x2F;pnpm-faster-more-performant-npm) 
 *I&#39;m always on the lookout for tools that can improve my workflow and boost the efficiency of my projects as a software developer. That&#39;s why I was thrilled when I came across pnpm, a revolutionary package manager that outperforms both Yarn and NPM.*
-#### [Next.js SEO checklist: Start ranking higher on Google](https:&#x2F;&#x2F;www.moerman.tech&#x2F;blog&#x2F;nextjs-seo-checklist-start-ranking-higher-on-google) 
+#### [Next.js SEO checklist: Start ranking higher on Google](https:&#x2F;&#x2F;www.moerman.dev&#x2F;blog&#x2F;nextjs-seo-checklist-start-ranking-higher-on-google) 
 *You&#39;re about to unlock the secret sauce of SEO with Next.js. This guide serves as your roadmap to higher Google rankings, offering insights on everything from server-side rendering to metadata management.*
-#### [ChatGPT guide for developers: increase your productivity with AI](https:&#x2F;&#x2F;www.moerman.tech&#x2F;blog&#x2F;a-developers-manual-to-chatgpt) 
+#### [ChatGPT guide for developers: increase your productivity with AI](https:&#x2F;&#x2F;www.moerman.dev&#x2F;blog&#x2F;a-developers-manual-to-chatgpt) 
 *Are you ready to tap into your untapped potential as a developer? Brace yourself for an exhilarating journey as we uncover the incredible power of ChatGPT.*
-#### [How to add user auth with Clerk and NextJS](https:&#x2F;&#x2F;www.moerman.tech&#x2F;blog&#x2F;how-to-add-user-auth-with-clerk-and-nextjs) 
+#### [How to add user auth with Clerk and NextJS](https:&#x2F;&#x2F;www.moerman.dev&#x2F;blog&#x2F;how-to-add-user-auth-with-clerk-and-nextjs) 
 *Learn how to easily add user authentication with Clerk for a Next.js 13 App Directory project. Follow my step-by-step guide and learn how to add authentication to your Next 13 project in under 30 minutes.*
-#### [Next.JS: migrate from pages to using app router](https:&#x2F;&#x2F;www.moerman.tech&#x2F;blog&#x2F;nextjs-migrate-from-pages-to-app-router) 
+#### [Next.JS: migrate from pages to using app router](https:&#x2F;&#x2F;www.moerman.dev&#x2F;blog&#x2F;nextjs-migrate-from-pages-to-app-router) 
 *Learn how to seamlessly migrate from Next.js Pages to App Router in just a few steps. Upgrade your app&#39;s performance and user experience today!*
-#### [The useState &amp; useEffect mistakes junior React developers still make in 2023](https:&#x2F;&#x2F;www.moerman.tech&#x2F;blog&#x2F;usestate-and-useeffect-mistakes-junior-react-developers-still-make-in-2023) 
+#### [The useState &amp; useEffect mistakes junior React developers still make in 2023](https:&#x2F;&#x2F;www.moerman.dev&#x2F;blog&#x2F;usestate-and-useeffect-mistakes-junior-react-developers-still-make-in-2023) 
 *Are you a junior React developer making mistakes with the useState and useEffect hooks? In 2023, these errors are still common. Don&#39;t worry, you&#39;re not alone.*
-#### [Is Svelte the next big thing in Javascript frameworks?](https:&#x2F;&#x2F;www.moerman.tech&#x2F;blog&#x2F;is-svelte-the-next-big-thing-in-javascript-frameworks) 
+#### [Is Svelte the next big thing in Javascript frameworks?](https:&#x2F;&#x2F;www.moerman.dev&#x2F;blog&#x2F;is-svelte-the-next-big-thing-in-javascript-frameworks) 
 *Are you tired of bulky JavaScript frameworks that slow down your website? Look no further than Svelte.  With its unique approach to compiling code into small, pure Vanilla JS, Svelte is revolutionizing the way you build websites.*
 <!--END_SECTION:feed-->
 <br>
