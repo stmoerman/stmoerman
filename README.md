@@ -26,6 +26,11 @@ engineering teams to success.
 - Open to new fractional CTO opportunities
 - Always learning and staying ahead of tech trends
 
+## Blog posts
+
+<!--START_SECTION:feed-->
+<!--END_SECTION:feed-->
+
 ## 🤝 Let's Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/stephan-moerman/)
