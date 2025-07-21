@@ -39,10 +39,6 @@ engineering teams to success.
 *Explore the core rendering techniques in Next.js, from client-side (CSR) and server-side rendering (SSR) to static site generation (SSG), incremental static regeneration (ISR), and the new partial pre-rendering (PPR). My article breaks down each approach to help you choose the best strategy for building fast, scalable, and SEO-friendly applications.*
 #### [Next.js 15 project organization: 3 essential strategies](https://www.moerman.dev/blog/nextjs-15-project-organization-strategies) 
 *You're about to start a new Next.js project or you're working on a codebase that has been expanding over a longer period of time, and you've got code bloat. How can you best organize your Next.js projects? Lets explore some options!*
-#### [How to host Next.js in 2025: VPS, self-hosting & managed options](https://www.moerman.dev/blog/how-to-host-nextjs-in-2025) 
-*You're about to unlock the secret sauce of SEO with Next.js. This guide serves as your roadmap to higher Google rankings, offering insights on everything from server-side rendering to metadata management.*
-#### [Fractional CTOs: the secret weapon for scaling tech startups](https://www.moerman.dev/blog/when-to-hire-a-fractional-cto) 
-*You're about to unlock the secret sauce of SEO with Next.js. This guide serves as your roadmap to higher Google rankings, offering insights on everything from server-side rendering to metadata management.*
 <!--END_SECTION:feed-->
 
 ## 🤝 Let's Connect
