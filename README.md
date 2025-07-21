@@ -1,4 +1,7 @@
 
+[![Visits Badge](https://komarev.com/ghpvc/?username=stmoerman&label=Profile%20views&color=blue&style=for-the-badge)](https://moerman.dev)
+[![wakatime](https://wakatime.com/badge/user/297edd54-7d6e-4275-9ceb-7bc302e0f85d.svg&style=for-the-badge)](https://wakatime.com/@297edd54-7d6e-4275-9ceb-7bc302e0f85d)
+
 # Hi, I'm Stephan 👋
 
 **Fractional CTO & Full-Stack Developer**
