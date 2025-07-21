@@ -41,6 +41,11 @@ engineering teams to success.
 *You're about to start a new Next.js project or you're working on a codebase that has been expanding over a longer period of time, and you've got code bloat. How can you best organize your Next.js projects? Lets explore some options!*
 <!--END_SECTION:feed-->
 
+## Weekly development breakdown
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ## 🤝 Let's Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/stephan-moerman/)
