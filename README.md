@@ -44,10 +44,9 @@ engineering teams to success.
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 2 hrs
+Total Time: 0 secs
 
-TypeScript   2 hrs           ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   99.96 %
-Other        0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.04 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
