@@ -1,5 +1,4 @@
 [![Visits Badge](https://komarev.com/ghpvc/?username=stmoerman&label=Profile%20views&color=blue&style=for-the-badge)](https://moerman.dev)
-[![wakatime](https://wakatime.com/badge/user/297edd54-7d6e-4275-9ceb-7bc302e0f85d.svg?style=for-the-badge)](https://wakatime.com/@297edd54-7d6e-4275-9ceb-7bc302e0f85d)
 
 # Hi, I'm Stephan 👋
 
@@ -38,18 +37,6 @@ engineering teams to success.
 #### [Next.js page rendering techniques: CSR, SSR, SSG, ISR, or PPR?](https://www.moerman.dev/blog/nextjs-page-rendering-strategies) 
 *Explore the core rendering techniques in Next.js, from client-side (CSR) and server-side rendering (SSR) to static site generation (SSG), incremental static regeneration (ISR), and the new partial pre-rendering (PPR). My article breaks down each approach to help you choose the best strategy for building fast, scalable, and SEO-friendly applications.*
 <!--END_SECTION:feed-->
-
-## Weekly development breakdown
-
-<!--START_SECTION:waka-->
-
-```txt
-Total Time: 0 secs
-
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
 
 ## 🤝 Let's Connect
 
