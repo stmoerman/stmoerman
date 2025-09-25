@@ -2,7 +2,7 @@
 
 # Hi, I'm Stephan 👋
 
-**Fractional CTO & Full-Stack Developer**
+**Fractional CTO
 
 I help startups and scale-ups build robust technical foundations and lead 
 engineering teams to success.
