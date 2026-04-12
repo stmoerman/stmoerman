@@ -1,33 +1,19 @@
 [![Visits Badge](https://komarev.com/ghpvc/?username=stmoerman&label=Profile%20views&color=blue&style=for-the-badge)](https://moerman.dev)
 
-# Hi, I'm Stephan 👋
+# Stephan Moerman
 
-**// Fractional CTO**
+**CTO at [Kommit](https://kommit.ai)** — AI-native dev tools that help engineering teams ship better code, faster.
 
-I help startups and scale-ups build robust technical foundations and lead 
-engineering teams to success.
+I build at the intersection of AI and developer experience. Leading engineering, designing systems, and shipping products where LLMs do the heavy lifting.
 
-## 🚀 What I Do
+## Stack
 
-- **Strategic Leadership** → Architecting scalable systems & technical roadmaps
-- **Full-Stack Development** → From concept to production across the entire stack
-- **Team Building** → Growing and mentoring high-performing engineering teams
-- **Product Engineering** → Turning ideas into market-ready solutions
+**AI/ML:** LLMs, RAG, AI Agents, Prompt Engineering
+**Frontend:** React, TypeScript, Next.js, Tailwind CSS
+**Backend:** Node.js, Python, PostgreSQL, Redis
+**Infra:** AWS, Docker, Kubernetes, CI/CD
 
-## 🛠️ Tech Stack
-
-**Frontend:** React, TypeScript, Next.js, Tailwind CSS  
-**Backend:** Node.js, Python, PostgreSQL, Redis  
-**Cloud:** AWS, Docker, Kubernetes  
-**Tools:** Git, CI/CD, Monitoring & Analytics
-
-## 📈 Currently
-
-- Building scalable solutions for multiple clients as a Fractional CTO
-- Open to new fractional CTO opportunities
-- Always learning and staying ahead of tech trends
-
-## Blog posts
+## Writing
 
 <!--START_SECTION:feed-->
 #### [The CTOs operational blueprint: how a fractional CTO can help you scale](https://www.moerman.dev/blog/the-ctos-operational-blueprint) 
@@ -38,12 +24,6 @@ engineering teams to success.
 *Explore the core rendering techniques in Next.js, from client-side (CSR) and server-side rendering (SSR) to static site generation (SSG), incremental static regeneration (ISR), and the new partial pre-rendering (PPR). My article breaks down each approach to help you choose the best strategy for building fast, scalable, and SEO-friendly applications.*
 <!--END_SECTION:feed-->
 
-## 🤝 Let's Connect
+## Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/stephan-moerman/)
-- 📧 [Email](mailto:stephan@moerman.dev)
-- 🌐 [Website](https://www.moerman.dev)
-
----
-
-*"Great technology serves great products, and great products serve people."*
+[LinkedIn](https://www.linkedin.com/in/stephan-moerman/) · [Email](mailto:stephan@moerman.dev) · [Website](https://www.moerman.dev)
