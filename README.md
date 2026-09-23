@@ -1,6 +1,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.webp">
-  <img src="./assets/header-light.webp" alt="Stephan Moerman, CTO at Kommit AI, illustrated with two Kommit agents at a desk." width="1200" height="320">
+  <img src="./assets/header-light.webp" alt="Stephan Moerman, CTO at Kommit AI, illustrated with two Kommit agents at a desk.">
 </picture>
 
 # Stephan Moerman
