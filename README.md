@@ -4,12 +4,10 @@
 
 **CTO at [Kommit AI](https://getkommit.ai)**
 
-I work on the moment AI agents move from answering questions to taking action in real systems.
+I build for the moment after “we should follow up.”
 
-At Kommit, we're building the control plane for that work: a clear view of every agent and its owner, policy and human review before sensitive actions, and a record of each run that keeps decisions, costs, and outcomes together.
+At Kommit, we're building AI agents for the everyday work busy teams can't afford to drop: a proposal gone quiet, a missing document, an invoice needing a nudge, or a task waiting on someone. The agents work in the tools teams already use, prepare the next step in the team's voice, and bring client-facing sends to a person for review.
 
-> **The question I keep coming back to:** Who gave this agent permission, what did it do, and can we prove it?
-
-I like building systems that make powerful technology understandable to the people responsible for it.
+**The idea is simple:** the agent keeps track of the loose ends. People keep the final say.
 
 [LinkedIn](https://www.linkedin.com/in/stephan-moerman/) · [Website](https://www.moerman.dev) · [Email](mailto:stephan@moerman.dev)
