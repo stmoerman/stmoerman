@@ -74,14 +74,14 @@ def make_svg(c: dict[str, str]) -> str:
       <rect x="638" y="65" width="205" height="113" rx="17" fill="{c['card']}" stroke="{c['line']}"/>
       <circle cx="667" cy="95" r="8" fill="{c['peach']}"/>
       <text x="686" y="100" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" letter-spacing="1.5" fill="{c['muted']}">01  NOTICE</text>
-      <text x="661" y="140" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700" fill="{c['ink']}">A quiet thread</text>
+      <text x="661" y="140" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700" fill="{c['ink']}">Open loop</text>
       <rect x="661" y="152" width="111" height="4" rx="2" fill="{c['line']}"/>
     </g>
     <g transform="rotate(4 885 173)">
       <rect x="782" y="114" width="214" height="112" rx="17" fill="{c['card']}" stroke="{c['line']}"/>
       <circle cx="811" cy="144" r="8" fill="{c['blue']}"/>
       <text x="830" y="149" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" letter-spacing="1.5" fill="{c['muted']}">02  PREPARE</text>
-      <text x="805" y="187" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700" fill="{c['ink']}">A useful draft</text>
+      <text x="805" y="187" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700" fill="{c['ink']}">Next draft</text>
       <rect x="805" y="200" width="138" height="4" rx="2" fill="{c['line']}"/>
     </g>
     <g transform="rotate(-3 1046 216)">
