@@ -2,7 +2,7 @@
 
 # Stephan Moerman
 
-**CEO at [Kommit](https://kommit.ai)** — AI-native dev tools that help engineering teams ship better code, faster.
+**CTO at [Kommit AI](https://kommit.ai)** — AI-native dev tools that help engineering teams ship better code, faster.
 
 I build at the intersection of AI and developer experience. Leading engineering, designing systems, and shipping products where LLMs do the heavy lifting.
 
