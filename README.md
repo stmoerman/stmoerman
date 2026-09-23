@@ -1,21 +1,15 @@
-[![Visits Badge](https://komarev.com/ghpvc/?username=stmoerman&label=Profile%20views&color=blue&style=for-the-badge)](https://moerman.dev)
+[![Profile views](https://komarev.com/ghpvc/?username=stmoerman&label=Profile%20views&color=blue&style=for-the-badge)](https://moerman.dev)
 
 # Stephan Moerman
 
-**CTO at [Kommit AI](https://kommit.ai)** — AI-native dev tools that help engineering teams ship better code, faster.
+**CTO at [Kommit AI](https://getkommit.ai)**
 
-I build at the intersection of AI and developer experience. Leading engineering, designing systems, and shipping products where LLMs do the heavy lifting.
+I work on the moment AI agents move from answering questions to taking action in real systems.
 
-## Stack
+At Kommit, we're building the control plane for that work: a clear view of every agent and its owner, policy and human review before sensitive actions, and a record of each run that keeps decisions, costs, and outcomes together.
 
-**AI/ML:** LLMs, RAG, AI Agents, Prompt Engineering
+> **The question I keep coming back to:** Who gave this agent permission, what did it do, and can we prove it?
 
-**Frontend:** React, TypeScript, Next.js, Tailwind CSS
+I like building systems that make powerful technology understandable to the people responsible for it.
 
-**Backend:** Node.js, Python, PostgreSQL, Redis
-
-**Infra:** AWS, Docker, Kubernetes, CI/CD
-
-## Connect
-
-[LinkedIn](https://www.linkedin.com/in/stephan-moerman/) · [Email](mailto:stephan@moerman.dev) · [Website](https://www.moerman.dev)
+[LinkedIn](https://www.linkedin.com/in/stephan-moerman/) · [Website](https://www.moerman.dev) · [Email](mailto:stephan@moerman.dev)
